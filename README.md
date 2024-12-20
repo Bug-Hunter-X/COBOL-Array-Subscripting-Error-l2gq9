@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a common array subscripting error. The program attempts to populate a table using a loop, but it incorrectly handles the array indexing, leading to unexpected results. The solution demonstrates the correct way to handle array indexing in COBOL to avoid this error.
